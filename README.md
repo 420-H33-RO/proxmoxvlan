@@ -1,6 +1,7 @@
 # ProxmoxVLAN Setup
 
-This script will automatically configure the network interfaces for Proxmox to support VLANs.
+This script will automatically configure the network interfaces for Proxmox to support VLANs. 
+It also supports an NGINX install to remove the necessity of adding the port after the proxmox ip
 
 ## Installation
 
