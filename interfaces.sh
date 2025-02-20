@@ -153,3 +153,4 @@ EOF
 else
     echo "NGINX installation skipped. The script will now exit."
 fi
+systemctl restart networking
